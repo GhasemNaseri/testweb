@@ -21,6 +21,7 @@ namespace WebApplication1.Controllers
         public AccountController()
         {
             //inits
+            //xsf
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
